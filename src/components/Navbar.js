@@ -42,7 +42,7 @@ const MenuBars = styled.i`
     cursor: pointer;
     position: absolute;
     top: 0;
-    right:0;
+    right: 0;
     transform: translate(-50%, 25%);
   }
 `;
@@ -71,11 +71,11 @@ const NavBtn = styled.div`
   }
 `;
 
-const Navbar = () => {
+const Navbar = ({ toggle }) => {
   return (
     <Nav>
       <Logo to="/">ELIXR</Logo>
-      <MenuBars />
+      <MenuBars onClick={toggle} />
       <NavMenu>
         {menuData.map((item, index) => (
           <NavMenuLinks to={item.link} key={index}>
