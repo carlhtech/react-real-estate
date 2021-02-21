@@ -5,8 +5,8 @@ Created this simple website as a template for future projects. Standard spw with
 
 <br/>
 
-<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/React_web_images/PropertyTemplate1.png" width="180"/>&nbsp;&nbsp;
-<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/React_web_images/PropertyTemplate2.png" width="180"/>&nbsp;&nbsp;
+<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/React_web_images/PropertyTemplate1.png" width=""/>&nbsp;&nbsp;
+<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/React_web_images/PropertyTemplate2.png" width=""/>&nbsp;&nbsp;
 
 
 
