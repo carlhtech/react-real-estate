@@ -13,7 +13,7 @@ export const SliderData = [
     alt: "House",
   },
   {
-    title: "House in San Jose, Csta Rica",
+    title: "House in San Jose, Costa Rica",
     price: "$2,860,000",
     path: "/homes",
     label: "View Home",
